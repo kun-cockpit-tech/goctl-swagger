@@ -1,4 +1,4 @@
-module github.com/zeromicro/goctl-swagger
+module github.com/kun-cockpit-tech/goctl-swagger
 
 go 1.16
 
